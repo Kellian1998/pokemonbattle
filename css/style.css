@@ -1,0 +1,198 @@
+body{
+	background-image: url(https://hdwallpaper20.com/wp-content/uploads/2016/04/Pokemon-wallpapers-15-HD-Collection-pikachu_background.png);
+	background-color: #FBD81B;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y:-300px;
+	background-position-x:200px;
+}
+
+*{
+	font-family: Montserrat,sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+#Titre{
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+}
+#btn{
+	display: flex;
+	justify-content: center;
+}
+#bold{
+	font-weight: bold;
+}
+
+#buttonbattle{
+	font-weight: bold;
+	width:100px;
+	height:50px;
+}
+
+.bbclass{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#rejouer{
+	display: none;
+	justify-content: center;
+}
+
+#background{
+	display: flex;
+	justify-content: center;
+}
+#image{ 
+	width: 80%;
+	height: 80%;
+}
+#center{
+	margin: 100px auto;
+}
+
+#elem{
+	width:auto;
+	height:auto;
+	display: none;
+}
+
+#gridcard{
+	height:500px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	margin-top:-130px;
+}
+
+.cardattribute{
+	width:250px;
+	height:auto;
+	text-align: center;
+}
+
+#bulbizar{
+	height:360px;
+	width:240px;
+	display: block;
+	text-align: center;
+	border-radius:10px;
+}
+
+#bulbizar:hover{
+	height:380px;
+	width:250px;
+	cursor: pointer;
+	box-shadow: 10px 5px 5px black;
+}
+
+#pikachu{
+	height:360px;
+	width:240px;
+	display: block;
+	text-align: center;
+	border-radius:10px;
+}
+
+#pikachu:hover{
+	height:380px;
+	width:250px;
+	cursor: pointer;
+	box-shadow: 10px 5px 5px black;
+}
+
+#salameche{
+	height:360px;
+	width:240px;
+	display: block;
+	text-align: center;
+	border-radius:10px;
+}
+
+#salameche:hover{
+	height:380px;
+	width:250px;
+	cursor: pointer;
+	box-shadow: 10px 5px 5px black;
+}
+
+#carapuce{
+	height:360px;
+	width:240px;
+	display: block;
+	text-align: center;
+	border-radius:10px;
+}
+
+#carapuce:hover{
+	height:380px;
+	width:250px;
+	cursor: pointer;
+	box-shadow: 10px 5px 5px black;
+}
+
+#containerdisp{
+	display:block;
+}
+
+#combat1{
+	display:none;
+}
+
+#combat1esp{
+	justify-content: space-around;
+}
+
+#combat2{
+	display:none;
+}
+
+#combat2esp{
+	justify-content: space-around;
+}
+
+#combat3{
+	display:none;
+}
+
+#combat3esp{
+	justify-content: space-around;
+}
+
+#combat4{
+	display:none;
+}
+
+#combat4esp{
+	justify-content: space-around;
+}
+
+#combat5{
+	display:none;
+}
+
+#combat5esp{
+	justify-content: space-around;
+}
+
+#combat6{
+	display:none;
+}
+
+#combat6esp{
+	justify-content: space-around;
+}
+
+#comeff{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color:white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:black;
+	border-radius:20px;
+}
